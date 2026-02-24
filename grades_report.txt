@@ -1,0 +1,11 @@
+=== GRADES REPORT ===
+
+Student: Alice_Smith | Average: 84.33
+Student: Charlie_Brown | Average: 91.67
+Student: Diana_Prince | Average: 55.00 | *** WARNING: Low Grade ***
+Student: Edward_Clark | Average: 80.00
+
+=== SUMMARY ===
+Total students processed: 4
+Students with warnings: 1
+Records skipped due to errors: 1
